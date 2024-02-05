@@ -1,0 +1,5 @@
+Public members of a class A are accessible for all and everyone.
+
+Protected members of a class A are not accessible outside of A's code, but is accessible from the code of any class derived from A.
+
+Private members of a class A are not accessible outside of A's code, or from the code of any class derived from A.
